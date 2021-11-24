@@ -5,9 +5,7 @@
 <a href="">
   <img align="left" alt="Sloops | Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/sloops">
-  <img align="left" alt="Sloops | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 
 <br />
 <br />
